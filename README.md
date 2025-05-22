@@ -17,7 +17,7 @@ En el sistema a desarrollar, deberá existir la opción de configuración, la qu
 3. Deberá ser posible editar y/o modificar los datos registrados y volverlos a guardar.
 
 ## 📌 Entregables
-1. ![Diagrama ER](diagrama_er.png)
+1. ![Diagrama ER](diagrama-er.png)
 
 ## 🛠 Herramientas utilizadas
 - **Modelado:** Vertabelo (Diagrama E/R)  
