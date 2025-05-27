@@ -24,7 +24,7 @@ En el sistema a desarrollar, deberá existir la opción de configuración, la qu
 
 [Script de Creación de la BD](FinanzasBonos_Script.sql)
 
-![Diagrama del Modelo Lógico](ModeloLogico.png)
+![Diagrama del Modelo Lógico](ModeloLogico)
 
 
 
