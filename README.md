@@ -20,7 +20,9 @@ En el sistema a desarrollar, deberá existir la opción de configuración, la qu
 ![Diagrama ER](diagrama-er.png)
 
 ## 📌 Entregables (Tarea 2)
-![Documentación Técnica (PDF)](/docs/ModeloFisico_FinanzasBonos)
-[Script de Creación de la BD](/src/Scripts/FinanzasBonos_Script SQL)  
+[Documentación Técnica (PDF)](ModeloFisico_FinanzasBonos.pdf)
+[Script de Creación de la BD](FinanzasBonos_Script%20SQL.sql)  
+![Diagrama del Modelo Lógico](ModeloLogico.png)
+
 
 
