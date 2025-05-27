@@ -16,9 +16,11 @@ En el sistema a desarrollar, deberá existir la opción de configuración, la qu
 2. Se deberá dar de alta las valoraciones de bonos, ingresando los datos completos.
 3. Deberá ser posible editar y/o modificar los datos registrados y volverlos a guardar.
 
-## 📌 Entregables
+## 📌 Entregables (Tarea 1)
 ![Diagrama ER](diagrama-er.png)
 
-## 🛠 Herramientas utilizadas
-- **Modelado:** Vertabelo (Diagrama E/R)  
-- **Base de datos:** SQL Server  
+## 📌 Entregables (Tarea 2)
+![Documentación Técnica (PDF)](/docs/ModeloFisico_FinanzasBonos)
+[Script de Creación de la BD](/src/Scripts/FinanzasBonos_Script SQL)  
+
+
