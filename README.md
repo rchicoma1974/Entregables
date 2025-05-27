@@ -21,8 +21,8 @@ En el sistema a desarrollar, deberá existir la opción de configuración, la qu
 
 ## 📌 Entregables (Tarea 2)
 [Documentación Técnica (PDF)](ModeloFisico_FinanzasBonos.pdf)
-[Script de Creación de la BD](FinanzasBonos_Script.sql)  
 ![Diagrama del Modelo Lógico](ModeloLogico.png)
+[Script de Creación de la BD](FinanzasBonos_Script.sql)
 
 
 
