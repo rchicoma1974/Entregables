@@ -17,7 +17,7 @@ En el sistema a desarrollar, deberá existir la opción de configuración, la qu
 3. Deberá ser posible editar y/o modificar los datos registrados y volverlos a guardar.
 
 ## 📌 Entregables (Tarea 1)
-![Diagrama ER](diagrama-er.png)
+![Diagrama ER](diagrama_ER.png)
 
 ## 📌 Entregables (Tarea 2)
 [Documentación Técnica (PDF)](ModeloFisico_FinanzasBonos.pdf)
