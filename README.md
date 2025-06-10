@@ -27,7 +27,10 @@ En el sistema a desarrollar, deberá existir la opción de configuración, la qu
 ![Diagrama del Modelo Lógico](ModeloLogico.png)
 
 ## 📌 Entregables (Tarea 3)
-[Script de Creación de la BD](SQL_Script_Datos.sql)
+[Script de Inserción de la BD](SQL_Script_Datos.sql)
+
+## 📌 Entregables (Tarea 4)
+[Script de Consultas de la BD](SQL_Script_Consultas.sql)
 
 
 
